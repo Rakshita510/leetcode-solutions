@@ -7,4 +7,4 @@
 | 02-10-2026 | Valid Parentheses | Stacks | Easy | Accepted | |
 | 02-10-2026 | Min Stack | Stacks | Medium | Accepted | |
 | 02-10-2026 | Reverse Linked List | Linked Lists | Easy | Accepted | |
-| | Merge Two Sorted Lists | Linked Lists | Easy | Not Started | |
+| 02-10-2026 | Merge Two Sorted Lists | Linked Lists | Easy | Accepted | |
